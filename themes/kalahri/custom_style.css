@@ -1,0 +1,100 @@
+.breadcrumb {
+  display: none;
+}
+.art-logo{
+	width: 300px;
+}
+div.art-logo{
+	width: 280px;
+	top: 50px;
+	background-color: rgba(47, 31, 10, 0.18);
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+*{
+	text-align: justify;
+}
+
+h1.art-logo-name{
+	text-align: center;
+	
+}
+
+.views-row{
+	margin-bottom: 20px;
+}
+
+.news-title a{
+	font-size: 15px;
+	color: #6E4409;
+}
+/**FORM English**/
+#webform-component-reminder{
+	font-size: 10px;
+}
+
+#edit-submitted-donation-amount{
+	width: 160px;
+}
+#webform-component-donation-amount{
+	float: left;
+	width: 230px;
+}
+
+#webform-component-other-amount{	
+	width: 250px;
+	float: left;
+}
+
+#webform-component-other-amount.form-item{
+margin-bottom: none;
+}
+
+#webform-component-currency{
+	width: 230px;
+	float: left;
+}
+#edit-submitted-currency{
+	width: 150px;
+}
+
+.form-item-submitted-currency{
+	/*float: left;*/
+	margin-right: 5px;
+}
+
+#webform-component-first-name{
+	clear: both;
+}
+
+#webform-component-first-name{
+	margin-top: 20px;
+}
+
+.form-type-radio.form-item-submitted-donation-amount{
+	/*float: left;
+	width: 55px;*/
+}
+
+/**FORM Deutsch**/
+#webform-component-betrag{ 
+	float: left;
+	width: 230px;
+}
+
+#webform-component-anderer-betrag{
+	float: left;
+	width: 250px;
+}
+#webform-component-waehrung{
+	float: left;
+	width: 230px;
+}
+
+#webform-component-anrede{ float: left; width: 250px;}
+#edit-submitted-anrede{	width: 230px;}
+.form-item-submitted-anrede{ float: left; width: 50px;}
+
+#webform-component-vorname{ clear: both; }
